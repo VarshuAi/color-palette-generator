@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Generate beautiful harmonized HSL/RGB color scheme cards with hex copy buttons.
+  name: color-palette-generator version: 1.0 type: Repository author: VarshuAi description: >   Generate beautiful harmonized HSL/RGB color scheme cards with hex copy buttons. primary_tech: CSS
 primary_tech: CSS
 ```
 
